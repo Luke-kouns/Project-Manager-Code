@@ -1,0 +1,14 @@
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\bin\Debug\net8.0\ProjectManager.exe
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\bin\Debug\net8.0\ProjectManager.deps.json
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\bin\Debug\net8.0\ProjectManager.runtimeconfig.json
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\bin\Debug\net8.0\ProjectManager.dll
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\bin\Debug\net8.0\ProjectManager.pdb
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.AssemblyInfoInputs.cache
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.AssemblyInfo.cs
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.dll
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\refint\ProjectManager.dll
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.pdb
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ProjectManager.genruntimeconfig.cache
+C:\Users\LBKou\OneDrive\Desktop\RandomCodeProjects\ProjectManager\obj\Debug\net8.0\ref\ProjectManager.dll
